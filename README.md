@@ -1,15 +1,6 @@
 # Contas de Casa
 
-Sistema familiar: dinheiro, agenda, lista de compras e fotos compartilhadas.
-
-## Usuários
-| Nome | Senha |
-|------|-------|
-| Pedro | pedro123 |
-| Carol | carol123 |
-| Lucas | lucas123 |
-| Letícia | leticia123 |
-
+Sistema familiar: dinheiro, agenda, lista de compras e 
 ---
 
 ## Configurar Supabase (uma vez)
